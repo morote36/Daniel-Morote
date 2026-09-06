@@ -89,16 +89,7 @@ Description of what you did.
 
 ---
 
-# 🚩 TryHackMe Labs
-
-| Room | Skills Learned | Write-Up |
-|---|---|---|
-| Example Room | Linux Fundamentals | [View](LINK) |
-| Example Room | Networking | [View](LINK) |
-
----
-
-# 📫 Contact
+# Contact
 
 - E-mail: massieu36@gmail.com
 - LinkedIn: https://www.linkedin.com/in/daniel-morote-a70012241/
